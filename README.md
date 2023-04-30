@@ -1,1 +1,1 @@
-# Typing-Speed
+Speed Typing Test
